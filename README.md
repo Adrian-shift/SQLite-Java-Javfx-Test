@@ -1,4 +1,4 @@
-# 🚀 Teste: Empacotamento Nativo de App JavaFX + SQLite (Windows)
+# Teste: Empacotamento Nativo de App JavaFX + SQLite (Windows)
 
 Este é um projeto de estudo (Prova de Conceito - PoC) desenvolvido para aprender e validar a arquitetura necessária para transformar um programa **Java + JavaFX + SQLite** em um aplicativo Windows nativo e distribuível (`.exe`), que funciona de forma independente.
 
